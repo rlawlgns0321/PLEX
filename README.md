@@ -110,13 +110,13 @@ Play Excercise(이하 PLEX) 는 비가 오나 눈이 오나 상관없이 집에�
 
 # 요구사항 정의서
 
-![요구사항 정의서](README.assets/요구사항 정의서.png)
+![요구사항 정의서](README.assets/요구사항정의서.png)
 
 
 
 # 화면 설계서
 
-![화면 설계서](README.assets/화면 설계서.png)
+![화면 설계서](README.assets/화면설계서.png)
 
 
 
